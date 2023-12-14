@@ -1,0 +1,1 @@
+This application does a few things in order to user DOM and BOM properties, methods, and techniques. It caches elements, iterates over menu links and usernames, creates elements, adds new elements, modifies HTML and CSS content, uses event listeners, and uses a form for users to create an account or log into an account.
